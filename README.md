@@ -1,6 +1,6 @@
 # Understanding Bayesian Deep Learning 
 
-1. Elementary mathematics
+## 1. Elementary mathematics
 - Set theory
 - Measure theory
 - Probability
@@ -8,13 +8,13 @@
 - Random process
 - Functional analysis (harmonic analysis)
 
-2. Gaussian process
+## 2. Gaussian process
 - Gaussian process
 - Weight space view
 - Function space view
 - Gaussian process latent variable model 
 
-3. Bayesian neural netwrok
+## 3. Bayesian neural netwrok
 - Minimum description length
 - Ensemble learning in Bayesian neural network
 - Practical variational inference
