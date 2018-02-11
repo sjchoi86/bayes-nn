@@ -10,8 +10,8 @@
 
 ## 2. Gaussian process
 - Gaussian process
-- Weight space view
-- Function space view
+- Weight-space view
+- Function-space view
 - Gaussian process latent variable model 
 
 ## 3. Bayesian neural netwrok
@@ -37,7 +37,7 @@
 - Yarin Gal, Uncertainty in Deep Learning
 - Anonymous, Bayesian Uncertainty Estimation for Batch Normalized Deep Networks
 - Patrick McClure, Representing Inferential Uncertainty in Deep Neural Networks through Sampling
-- Balaji Lakshminarayanan, Simple and Scalable Predictive Estimation using Deep Ensembles
+- Balaji Lakshminarayanan, Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles
 - Alex Kendal, What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?
 - Gregory Kahn, Uncertainty-Aware Reinforcement Learning for Collision Avoidance
 - Charles Richter, Safe Visual Navigation via Deep Learning and Novelty Detection
