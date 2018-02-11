@@ -26,14 +26,14 @@
 ## 4. Summary
 - Measure thoery
 - Probability
-- RAndom variable
+- Random variable
 - Random process
 - Gaussian process
 - Functional Analysis
 - Summary of variational inference
 - Stein variational gradient descent 
 
-## 5. 
+## 5. Uncertainty in Deep Learning  
 - Yarin Gal, Uncertainty in Deep Learning
 - Anonymous, Bayesian Uncertainty Estimation for Batch Normalized Deep Networks
 - Patrick McClure, Representing Inferential Uncertainty in Deep Neural Networks through Sampling
